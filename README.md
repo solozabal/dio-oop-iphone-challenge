@@ -1,5 +1,5 @@
 # dio-oop-iphone-challenge
-Object-Oriented Programming Challenge: Modeling and Implementing an iPhone Component Model and implement the UML representation of a 2007 iPhone component, covering functionalities such as Music Player, Phone, and Internet Browser. Includes UML diagram creation using Mermaid syntax and Java code implementation.
+Desafio de Programação Orientada a Objetos: Modelagem e Implementação de um Componente de iPhone Modele e implemente a representação UML de um componente de iPhone de 2007, abrangendo funcionalidades como Music Player, Phone e Internet Browser. Inclui criação de diagrama UML usando sintaxe Mermaid e implementação de código Java.
 
 ## UML Diagram
 
