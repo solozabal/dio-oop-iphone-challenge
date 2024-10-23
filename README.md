@@ -1,6 +1,9 @@
 # dio-oop-iphone-challenge
 Desafio de Programação Orientada a Objetos: Modelagem e Implementação de um Componente de iPhone Modele e implemente a representação UML de um componente de iPhone de 2007, abrangendo funcionalidades como Music Player, Phone e Internet Browser. Inclui criação de diagrama UML usando sintaxe Mermaid e implementação de código Java.
 
+# Classe Main 
+A classe Main permite ao usuário interagir com um objeto iPhone simulando as funcionalidades de um reprodutor musical, aparelho telefônico e navegador de internet. O usuário escolhe uma ação a partir de um menu, e o programa executa a ação correspondente.
+
 ## UML Diagram
 
 [![](https://mermaid.ink/img/pako:eNrFk8FOwzAMhl-lyqmIaQ9QcZngsgPTtCFOvXiJ11qkceUmFWzs3QlbQJoariOnxPljf_njHJVmg6pS2sIwPBE0Al3tijjOkWK5wV7YBM_yHAbSYIvjZf973Bcjkyk8a5DybhLvIQzZjQEtamIHKWm59UKuKbrzKulPtbsiWfQgaFt-iYf37EhzBsVSEyumdC50KDwtDx6dwRwYxbQE8sgiSPzKh_IPmBWM2IBhWTqP4tBnWPCddiRraMj93jCIzfAYurix4hEWOyhzyAEsHeAnXR6L1i07vNkL3cD3f7Iz0_YPn_N5MjhpMg05FU0b5UqjZip61QGZ-AnP71Yr32KHtari1IC81ap2p6iDSLP9cFpVXgLOlHBoWlXtwQ5xFXoT7U0_OEVPX7i6OO8?type=png)](https://mermaid.live/edit#pako:eNrFk8FOwzAMhl-lyqmIaQ9QcZngsgPTtCFOvXiJ11qkceUmFWzs3QlbQJoariOnxPljf_njHJVmg6pS2sIwPBE0Al3tijjOkWK5wV7YBM_yHAbSYIvjZf973Bcjkyk8a5DybhLvIQzZjQEtamIHKWm59UKuKbrzKulPtbsiWfQgaFt-iYf37EhzBsVSEyumdC50KDwtDx6dwRwYxbQE8sgiSPzKh_IPmBWM2IBhWTqP4tBnWPCddiRraMj93jCIzfAYurix4hEWOyhzyAEsHeAnXR6L1i07vNkL3cD3f7Iz0_YPn_N5MjhpMg05FU0b5UqjZip61QGZ-AnP71Yr32KHtari1IC81ap2p6iDSLP9cFpVXgLOlHBoWlXtwQ5xFXoT7U0_OEVPX7i6OO8)
